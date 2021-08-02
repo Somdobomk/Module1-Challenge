@@ -31,8 +31,9 @@ p {
 	font-size: 48px;
 }
 
+/* changed gray color to help it stand out more */
 .header h1 .seo {
-	color: #d9dcd6;
+	color: #8c8d8c;
 }
 
 .header div {
