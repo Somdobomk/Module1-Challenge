@@ -1,6 +1,6 @@
 # Module 1 - Code Refactor
 
-<font size="20">[DEMO](https://somdobomk.github.io/Module1-Challenge/)</font>
+# [DEMO](https://somdobomk.github.io/Module1-Challenge/)
 
 ## User Story
 
