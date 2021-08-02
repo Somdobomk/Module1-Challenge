@@ -39,4 +39,4 @@ THEN I find a concise, descriptive title
 - Added alt tags to the images for better SEO and to help screen-reading tools.
 - Consolidated CSS to minimize file size and reuse code.
 - Compressed images file size.
-- Converted images from .jpg/.png to .webp. (original image folder size 50.1MB. compressed 39.2MB. webp 6.6MB)
+- Converted images from .jpg/.png to .webp. (original image folder size 50.1MB. compressed image folder size 39.2MB. webp folder size 6.6MB)
