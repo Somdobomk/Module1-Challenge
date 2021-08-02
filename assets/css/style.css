@@ -24,6 +24,7 @@ p {
 		'Lucida Sans', Arial, sans-serif;
 	background-color: #2a607c;
 	color: #ffffff;
+	overflow: hidden;
 }
 
 .header h1 {
