@@ -2,6 +2,10 @@
 
 # [DEMO](https://somdobomk.github.io/Module1-Challenge/)
 
+<div align="center">
+    <img src="./assets/screenshot.png" width="400px"> 
+</div>
+
 ## User Story
 
 ```
@@ -31,7 +35,7 @@ THEN I find a concise, descriptive title
 - Changed "Webpage" title to "Horiseon" to match company title.
 - Changed the color of the "SEO" span in company's name.
 - Fixed the Navbar link to allow users to be sent directly to specified sections of the page.
-- Added hover elements to navbar
+- Added hover animations to navbar
 - Added alt tags to the images for better SEO and to help screen-reading tools.
 - Consolidated CSS to minimize file size and reuse code.
 - Compressed images file size.

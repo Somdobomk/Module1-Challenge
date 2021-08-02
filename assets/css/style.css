@@ -75,7 +75,7 @@ ul li a::after {
 }
 
 ul li a:hover {
-	color: #95a5a6;
+	color: #ff7000;
 }
 
 ul li a:hover::after {
