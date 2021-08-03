@@ -56,17 +56,6 @@ p {
 	margin-left: 25px;
 }
 
-/* sticky navbar */
-.sticky {
-	position: fixed;
-	top: 0;
-	width: 100%;
-}
-
-.sticky + .content {
-	padding-top: 60px;
-}
-
 /* navbar animation for links when hovered */
 ul li a {
 	position: relative;
