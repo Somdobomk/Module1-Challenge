@@ -5,7 +5,8 @@
 }
 
 body {
-	background-color: #d9dcd6;
+	background: #d9dcd6;
+	color: #000;
 }
 
 a {
@@ -25,6 +26,8 @@ p {
 	background-color: #2a607c;
 	color: #ffffff;
 	overflow: hidden;
+	position: fixed;
+	width: 100%;
 }
 
 .header h1 {
@@ -51,6 +54,17 @@ p {
 .header div ul li {
 	display: inline-block;
 	margin-left: 25px;
+}
+
+/* sticky navbar */
+.sticky {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.sticky + .content {
+	padding-top: 60px;
 }
 
 /* navbar animation for links when hovered */
