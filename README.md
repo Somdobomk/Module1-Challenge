@@ -1,6 +1,6 @@
 # Module 1 - Code Refactor
 
-# [DEMO](https://somdobomk.github.io/Module1-Challenge/)
+# [DEMO](https://somdobomk-chalenge1-challenge.netlify.app/)
 
 <div align="center">
     <img src="./assets/screenshot.png" width="400px"> 
